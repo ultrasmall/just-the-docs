@@ -282,7 +282,6 @@
 
   .search-input {
     background-color: $search-background-color;
-    color: $search-text-color !important;
 
     @include mq(md) {
       padding-left: 2.3rem;
